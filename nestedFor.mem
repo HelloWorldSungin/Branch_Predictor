@@ -1,0 +1,22 @@
+//	
+//	Nested for loop:
+//	int C = 0;
+//	for(i=0;i<4;i++)
+//	  for(j=0;j<4;j++)
+//	    C++; 	
+//
+
+20100004	//addi	$s0	$zero	0x0004
+200A0000	//addi	$t2	$zero 	0x0000 //j
+200B0000	//addi	$t3	$zero 	0x0000 //C
+20110004	//addi 	$s1	$zero	0x0004
+20090000	//addi	$t1	$zero	0x0000 //i
+
+//ifor:  
+//jfor:
+216B0001	//addi	$t3	$t3	0x0001 		//C++
+214A0001	//addi	$t2 	$t2	0x0001  	//j++
+1551FFFD	//bne	$t2	$s1	jfor(-3)
+200A0000	//addi	$t2	$zero 	0x0000 		//reset j = 0
+21290001	//addi 	$t1	$t1	0x0001 		//i++
+1530FFFA	//bne	$t1	$s0	ifor(-6)

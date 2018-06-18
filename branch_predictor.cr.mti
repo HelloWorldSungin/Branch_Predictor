@@ -1,0 +1,322 @@
+/home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/pc_reg.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/pc_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module flopenr
+
+Top level modules:
+	flopenr
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/mips_cpu.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/mips_cpu.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mips_cpu
+
+Top level modules:
+	mips_cpu
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/if_id_reg_new.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/if_id_reg_new.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module if_id_reg
+
+Top level modules:
+	if_id_reg
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/if_id_reg_new.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/if_id_reg_new.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module if_id_reg
+
+Top level modules:
+	if_id_reg
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/id_exe_reg.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/id_exe_reg.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module id_exe_reg
+
+Top level modules:
+	id_exe_reg
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/data_memory_basic.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/data_memory_basic.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module data_memory_basic
+
+Top level modules:
+	data_memory_basic
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/branch_predictor_local.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/branch_predictor_local.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module branch_predictor_local
+
+Top level modules:
+	branch_predictor_local
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/data_memory_basic.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/data_memory_basic.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module data_memory_basic
+
+Top level modules:
+	data_memory_basic
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/mem_wb_reg.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/mem_wb_reg.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module mem_wb_reg
+
+Top level modules:
+	mem_wb_reg
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/controller.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/exe_mem_reg.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/exe_mem_reg.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module exe_mem_reg
+
+Top level modules:
+	exe_mem_reg
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/mips_tb.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/mips_tb.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module a_pipelined_mips_tb
+
+Top level modules:
+	a_pipelined_mips_tb
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/exe_mem_reg.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/exe_mem_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module exe_mem_reg
+
+Top level modules:
+	exe_mem_reg
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/ALUdec.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/ALUdec.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALUdec
+
+Top level modules:
+	ALUdec
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/forward_data.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/forward_data.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module data_forward
+
+Top level modules:
+	data_forward
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/mips_tb.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/mips_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module a_pipelined_mips_tb
+
+Top level modules:
+	a_pipelined_mips_tb
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/datapath.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/mips_cpu.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/mips_cpu.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module mips_cpu
+
+Top level modules:
+	mips_cpu
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/pc_reg.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/pc_reg.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module flopenr
+
+Top level modules:
+	flopenr
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/maindec.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/maindec.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module maindec
+
+Top level modules:
+	maindec
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/branch_predictor_global.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/branch_predictor_global.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module branch_predictor_global
+
+Top level modules:
+	branch_predictor_global
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/branch_predictor_global.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/branch_predictor_global.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module branch_predictor_global
+
+Top level modules:
+	branch_predictor_global
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/ALU.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/ALU.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/mux.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/mux.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module mux2
+-- Compiling module mux3
+-- Compiling module mux4
+
+Top level modules:
+	mux2
+	mux3
+	mux4
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/ops.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/ops.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module adder
+-- Compiling module signext_16_32
+-- Compiling module zeroext_16_32
+-- Compiling module sll_2
+-- Compiling module sll_16
+-- Compiling module equals
+
+Top level modules:
+	adder
+	signext_16_32
+	zeroext_16_32
+	sll_2
+	sll_16
+	equals
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/maindec.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/maindec.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module maindec
+
+Top level modules:
+	maindec
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/ALU.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/hazard_detector.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/hazard_detector.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module hazard_detector
+
+Top level modules:
+	hazard_detector
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/branch_predictor_local.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/branch_predictor_local.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module branch_predictor_local
+
+Top level modules:
+	branch_predictor_local
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/mux.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/mux.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mux2
+-- Compiling module mux3
+-- Compiling module mux4
+
+Top level modules:
+	mux2
+	mux3
+	mux4
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/ops.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/ops.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module adder
+-- Compiling module signext_16_32
+-- Compiling module zeroext_16_32
+-- Compiling module sll_2
+-- Compiling module sll_16
+-- Compiling module equals
+
+Top level modules:
+	adder
+	signext_16_32
+	zeroext_16_32
+	sll_2
+	sll_16
+	equals
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/id_exe_reg.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/id_exe_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module id_exe_reg
+
+Top level modules:
+	id_exe_reg
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/register_file.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/register_file.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/controller.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/controller.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/hazard_detector.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/hazard_detector.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module hazard_detector
+
+Top level modules:
+	hazard_detector
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/mips_macros.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/mips_macros.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/mem_wb_reg.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/mem_wb_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module mem_wb_reg
+
+Top level modules:
+	mem_wb_reg
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/register_file.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/register_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module register_file
+
+Top level modules:
+	register_file
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/ALUdec.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/ALUdec.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module ALUdec
+
+Top level modules:
+	ALUdec
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/forward_data.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/forward_data.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module data_forward
+
+Top level modules:
+	data_forward
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/mips_macros.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/mips_macros.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+
+} {} {}} /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/inst_memory.v {1 {vlog -work work -stats=none /home/sunginkim/Desktop/ECE154b/Project3/branch_predictor/inst_memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.6c Compiler 2017.07 Jul 26 2017
+-- Compiling module inst_memory
+
+Top level modules:
+	inst_memory
+
+} {} {}} /fs/student/sunginkim/ece154B/Pro3/branch_predictor/datapath.v {1 {vlog -work work -vopt -stats=none /fs/student/sunginkim/ece154B/Pro3/branch_predictor/datapath.v
+Model Technology ModelSim SE-64 vlog 10.5c Compiler 2016.07 Jul 20 2016
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}}
